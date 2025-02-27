@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Sergey Kirpichenko"
+title: "About Sergey"
 permalink: /about/
 ---
 
