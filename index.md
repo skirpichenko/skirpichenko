@@ -3,8 +3,6 @@ layout: home
 title: Home
 ---
 
-# Welcome
-
 ## Latest Articles
 
 {% for post in site.posts limit:5 %}
